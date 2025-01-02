@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waiving&height=300&color=gradient&text=Thank%20You%20for%20Visiting!&textBg=false&fontColor=000000&fontSize=50&stroke=333333&strokeWidth=1" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You%20for%20Visiting!&textBg=false&fontColor=eeeeee&fontSize=50&stroke=cccccc&strokeWidth=1" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> I My Me Mine </h2>  
